@@ -1,0 +1,14 @@
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\bin\Debug\net7.0\Mascotteria.Model.deps.json
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\bin\Debug\net7.0\Mascotteria.Model.runtimeconfig.json
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\bin\Debug\net7.0\Mascotteria.Model.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\bin\Debug\net7.0\Mascotteria.Model.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\Mascotteria.Model.csproj.AssemblyReference.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\Mascotteria.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\Mascotteria.Model.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\Mascotteria.Model.AssemblyInfo.cs
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\Mascotteria.Model.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\Mascotteria.Model.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\refint\Mascotteria.Model.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\Mascotteria.Model.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\Mascotteria.Model.genruntimeconfig.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Model\obj\Debug\net7.0\ref\Mascotteria.Model.dll

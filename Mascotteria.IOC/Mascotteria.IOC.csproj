@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mascotteria.BLL\Mascotteria.BLL.csproj" />
+    <ProjectReference Include="..\Mascotteria.DAL\Mascotteria.DAL.csproj" />
+    <ProjectReference Include="..\Mascotteria.Utility\Mascotteria.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

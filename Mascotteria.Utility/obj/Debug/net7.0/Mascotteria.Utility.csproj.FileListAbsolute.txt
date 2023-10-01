@@ -1,0 +1,17 @@
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\bin\Debug\net7.0\Mascotteria.Utility.deps.json
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\bin\Debug\net7.0\Mascotteria.Utility.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\bin\Debug\net7.0\Mascotteria.Utility.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\Mascotteria.Utility.csproj.AssemblyReference.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\Mascotteria.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\Mascotteria.Utility.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\Mascotteria.Utility.AssemblyInfo.cs
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\Mascotteria.Utility.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\Mascotteria.Utility.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\refint\Mascotteria.Utility.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\Mascotteria.Utility.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\ref\Mascotteria.Utility.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\bin\Debug\net7.0\Mascotteria.DTO.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\bin\Debug\net7.0\Mascotteria.Model.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\bin\Debug\net7.0\Mascotteria.DTO.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\bin\Debug\net7.0\Mascotteria.Model.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.Utility\obj\Debug\net7.0\Mascotteria.Utility.csproj.CopyComplete

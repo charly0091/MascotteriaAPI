@@ -1,0 +1,15 @@
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\bin\Debug\net7.0\Mascotteria.DAL.deps.json
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\bin\Debug\net7.0\Mascotteria.DAL.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\bin\Debug\net7.0\Mascotteria.DAL.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\Mascotteria.DAL.csproj.AssemblyReference.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\Mascotteria.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\Mascotteria.DAL.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\Mascotteria.DAL.AssemblyInfo.cs
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\Mascotteria.DAL.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\Mascotteria.DAL.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\refint\Mascotteria.DAL.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\Mascotteria.DAL.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\ref\Mascotteria.DAL.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\bin\Debug\net7.0\Mascotteria.Model.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\bin\Debug\net7.0\Mascotteria.Model.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.DAL\obj\Debug\net7.0\Mascotteria.DAL.csproj.CopyComplete
