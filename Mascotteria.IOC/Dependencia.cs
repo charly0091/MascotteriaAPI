@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 using Mascotteria.DAL.Repositorios.Contrato;
 using Mascotteria.DAL.Repositorios;
+using Mascotteria.Utility;
 
 namespace Mascotteria.IOC
 {
@@ -25,6 +26,8 @@ namespace Mascotteria.IOC
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IVentaRepository, VentaRepositorio>();
+
+            services.AddAutoMapper(typeof(AutoMapperProfile));
         }
     }
 }

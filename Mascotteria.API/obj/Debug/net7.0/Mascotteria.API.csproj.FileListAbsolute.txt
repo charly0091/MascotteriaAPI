@@ -81,3 +81,5 @@ C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotte
 C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.API\bin\Debug\net7.0\Mascotteria.DAL.pdb
 C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.API\bin\Debug\net7.0\Mascotteria.Model.pdb
 C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.API\bin\Debug\net7.0\Mascotteria.Utility.pdb
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\charly\Desktop\Programacion\ProyectoMascotteria\APIMascotteria\Mascotteria.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

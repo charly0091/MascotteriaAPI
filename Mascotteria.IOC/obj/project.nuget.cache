@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "aPv7nfF+GAAWqHkgtWk0gQCKuW2DyejyOr1iXnjtv4eCO4tR4D7DpiUr+Z0Sz7qTDzzvJ/fOD/Lbwe1u4rT/Mg==",
+  "dgSpecHash": "tqnht/8sszW/XuR0tvWHqIlxEoLJ5HvKTh+Qa36pS/fwcEkFWjHNfa9hyrEl0RxMRZ0IVZ/O2/AHbTwQ3qBqAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\charly\\Desktop\\Programacion\\ProyectoMascotteria\\APIMascotteria\\Mascotteria.IOC\\Mascotteria.IOC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\charly\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\charly\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\charly\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\charly\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\charly\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\charly\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\charly\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\charly\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\charly\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\charly\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",

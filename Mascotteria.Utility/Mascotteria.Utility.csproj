@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Mascotteria.DTO\Mascotteria.DTO.csproj" />
     <ProjectReference Include="..\Mascotteria.Model\Mascotteria.Model.csproj" />
   </ItemGroup>
